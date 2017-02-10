@@ -5,7 +5,7 @@ This is an experiment that renders the [Elm WebGL](https://github.com/elm-commun
 
 <img src="crate.png">
 
-The only purpose of this, is to be able to test the WebGL in Elm.
+The only purpose of this is to be able to test the WebGL in Elm.
 
 ## Installation
 
