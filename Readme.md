@@ -1,6 +1,6 @@
 # elm-node-webgl
 
-This is an experiment that renders the Elm WebGL code on node using
+This is an experiment that renders the [Elm WebGL](https://github.com/elm-community/webgl) code in Node using
 [gl](https://www.npmjs.com/package/gl).
 
 <img src="crate.png">
